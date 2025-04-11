@@ -333,7 +333,8 @@ body {
   position: relative;
   width: 100%;
   min-width: 360px;
-  overflow-x: unset !important;
+  overflow-x: hidden;
+  overflow-y: auto;
   font: normal 400 var(--_size)/1.4 var(--_font-default);
   text-rendering: optimizeLegibility;
   background-color: var(--base);
