@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://digitalcontentdesinger.com/sitemap.xml
+
+# CSS, JS, and Images
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.svg$
+
+# Disallow crawling of any potential admin or config files
+Disallow: /admin/
+Disallow: /config/
+Disallow: /includes/
+Disallow: /private/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+
+# Specific file types to not index
+Disallow: /*.pdf$
+Disallow: /*.zip$
+Disallow: /*.tar$
+Disallow: /*.gz$
