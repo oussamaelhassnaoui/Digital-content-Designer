@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://digitalcontentdesinger.com/sitemap.xml
+Sitemap: https://digitalcontentdesigner.com/sitemap.xml
 
 # CSS, JS, and Images
 Allow: /*.css$
