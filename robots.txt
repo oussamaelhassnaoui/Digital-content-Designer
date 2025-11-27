@@ -1,16 +1,4 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://digitalcontentdesigner.com/sitemap.xml
-
-# CSS, JS, and Images
-Allow: /*.css$
-Allow: /*.js$
-Allow: /*.png$
-Allow: /*.jpg$
-Allow: /*.jpeg$
-Allow: /*.gif$
-Allow: /*.svg$
 
 # Disallow crawling of any potential admin or config files
 Disallow: /admin/
@@ -19,9 +7,14 @@ Disallow: /includes/
 Disallow: /private/
 Disallow: /cgi-bin/
 Disallow: /tmp/
+Disallow: /Oussama-portfolio/
 
 # Specific file types to not index
 Disallow: /*.pdf$
 Disallow: /*.zip$
 Disallow: /*.tar$
 Disallow: /*.gz$
+
+Sitemap: https://digitalcontentdesigner.com/sitemap.xml
+Sitemap: https://digitalcontentdesigner.com/image-sitemap.xml
+Sitemap: https://digitalcontentdesigner.com/video-sitemap.xml

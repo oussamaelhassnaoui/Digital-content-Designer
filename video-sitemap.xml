@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://digitalcontentdesigner.com/index.html</loc>
+    <video:video>
+      <video:player_loc allow_embed="yes">https://player.vimeo.com/video/1042164372</video:player_loc>
+      <video:title>LukeVSL_PLC</video:title>
+      <video:description>LukeVSL_PLC</video:description>
+    </video:video>
+    <video:video>
+      <video:player_loc allow_embed="yes">https://player.vimeo.com/video/1115160881</video:player_loc>
+      <video:title>LukeVSL_PLC</video:title>
+      <video:description>LukeVSL_PLC</video:description>
+    </video:video>
+    <video:video>
+      <video:player_loc allow_embed="yes">https://player.vimeo.com/video/1115165668</video:player_loc>
+      <video:title>LukeVSL_PLC</video:title>
+      <video:description>LukeVSL_PLC</video:description>
+    </video:video>
+    <video:video>
+      <video:player_loc allow_embed="yes">https://player.vimeo.com/video/1042166639</video:player_loc>
+      <video:title>LukeVSL_PLC</video:title>
+      <video:description>LukeVSL_PLC</video:description>
+    </video:video>
+    <video:video>
+      <video:player_loc allow_embed="yes">https://player.vimeo.com/video/1115162941</video:player_loc>
+      <video:title>LukeVSL_PLC</video:title>
+      <video:description>LukeVSL_PLC</video:description>
+    </video:video>
+    <video:video>
+      <video:player_loc allow_embed="yes">https://player.vimeo.com/video/1115164036</video:player_loc>
+      <video:title>LukeVSL_PLC</video:title>
+      <video:description>LukeVSL_PLC</video:description>
+    </video:video>
+    <video:video>
+      <video:player_loc allow_embed="yes">https://player.vimeo.com/video/1115196375</video:player_loc>
+      <video:title>LukeVSL_PLC</video:title>
+      <video:description>LukeVSL_PLC</video:description>
+    </video:video>
+    <video:video>
+      <video:player_loc allow_embed="yes">https://player.vimeo.com/video/1115186134</video:player_loc>
+      <video:title>LukeVSL_PLC</video:title>
+      <video:description>LukeVSL_PLC</video:description>
+    </video:video>
+    <video:video>
+      <video:player_loc allow_embed="yes">https://player.vimeo.com/video/1001403189</video:player_loc>
+      <video:title>LukeVSL_PLC</video:title>
+      <video:description>LukeVSL_PLC</video:description>
+    </video:video>
+    <video:video>
+      <video:player_loc allow_embed="yes">https://player.vimeo.com/video/1115209751</video:player_loc>
+      <video:title>LukeVSL_PLC</video:title>
+      <video:description>LukeVSL_PLC</video:description>
+    </video:video>
+    <video:video>
+      <video:player_loc allow_embed="yes">https://player.vimeo.com/video/1115211919</video:player_loc>
+      <video:title>LukeVSL_PLC</video:title>
+      <video:description>LukeVSL_PLC</video:description>
+    </video:video>
+    <video:video>
+      <video:player_loc allow_embed="yes">https://player.vimeo.com/video/1117858111</video:player_loc>
+      <video:title>LukeVSL_PLC</video:title>
+      <video:description>LukeVSL_PLC</video:description>
+    </video:video>
+    <video:video>
+      <video:player_loc allow_embed="yes">https://player.vimeo.com/video/950413480</video:player_loc>
+      <video:title>LukeVSL_PLC</video:title>
+      <video:description>LukeVSL_PLC</video:description>
+    </video:video>
+    <video:video>
+      <video:player_loc allow_embed="yes">https://player.vimeo.com/video/1000322250</video:player_loc>
+      <video:title>LukeVSL_PLC</video:title>
+      <video:description>LukeVSL_PLC</video:description>
+    </video:video>
+    <video:video>
+      <video:player_loc allow_embed="yes">https://player.vimeo.com/video/1001390118</video:player_loc>
+      <video:title>LukeVSL_PLC</video:title>
+      <video:description>LukeVSL_PLC</video:description>
+    </video:video>
+    <video:video>
+      <video:player_loc allow_embed="yes">https://player.vimeo.com/video/1115198824</video:player_loc>
+      <video:title>LukeVSL_PLC</video:title>
+      <video:description>LukeVSL_PLC</video:description>
+    </video:video>
+  </url>
+</urlset>
