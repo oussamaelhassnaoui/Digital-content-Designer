@@ -1,19 +1,5 @@
 User-agent: *
-
-# Disallow crawling of any potential admin or config files
-Disallow: /admin/
-Disallow: /config/
-Disallow: /includes/
-Disallow: /private/
-Disallow: /cgi-bin/
-Disallow: /tmp/
-Disallow: /Oussama-portfolio/
-
-# Specific file types to not index
-Disallow: /*.pdf$
-Disallow: /*.zip$
-Disallow: /*.tar$
-Disallow: /*.gz$
+Allow: /
 
 Sitemap: https://digitalcontentdesigner.com/sitemap.xml
 Sitemap: https://digitalcontentdesigner.com/image-sitemap.xml
